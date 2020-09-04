@@ -10,7 +10,7 @@
   "dependencies": {
     "@syncfusion/ej2-vue-inputs": "^17.3.29",
     "core-js": "^3.4.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.10"
   },
